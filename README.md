@@ -1,4 +1,4 @@
-# grupp-9
+# Avatar
 Project management
 👉 Summary Koostada Veebileht vabalt valitud filmi kohta. Välja tuua erinevatel 
 lehtedel filmi eri aspektid. 
@@ -9,7 +9,10 @@ lehtedel filmi eri aspektid.
  - Mitte ühtegi Absolute!
  - Zone üleslaadimine
  - Mobiilne vaade!
-# Project Team
- - Project Manager:
- - Team Memebers: 
- - Designer:
+# Team members 
+ - Kristofer Mere TAK-23
+ - Robby Šaukštelis TAK-23
+ - Taaniel Tiidussalu TAK-23
+ - Germo Vaagert TA-23
+ - Sander-Aleks Mander TAK-21
+ - Timo Loho TAK-21
