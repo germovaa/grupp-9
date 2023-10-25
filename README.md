@@ -16,3 +16,13 @@ lehtedel filmi eri aspektid.
  - Germo Vaagert TA-23
  - Sander-Aleks Mander TAK-21
  - Timo Loho TAK-21
+
+# PÄEV 1
+- Valisime välja filmi (AVATAR).
+- Valisime välja lehed. Pealeht, arvustused, pildi galerii, filmi tehnika, järel vaatamine ja info.
+- Tegime Figmas disaini.
+- Tegime tahvlile esmase sktetchi.
+- Otsisime fonte.
+- Figmas sai sai peaaegu valimis mobiili vaate esmine ja teine leht.
+- Otsisime color sceami.
+- TAK-23 said tehtud zone kasutajad.
