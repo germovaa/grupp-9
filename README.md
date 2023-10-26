@@ -26,3 +26,7 @@ lehtedel filmi eri aspektid.
 - Figmas sai sai peaaegu valimis mobiili vaate esmine ja teine leht.
 - Otsisime color sceami.
 - TAK-23 said tehtud zone kasutajad.
+![IMG_0289](https://github.com/germovaa/grupp-9/assets/93116819/12fbfaa4-20d1-4c40-9a41-883e12d4b3b9)
+![IMG_0288](https://github.com/germovaa/grupp-9/assets/93116819/e41c62e7-88d7-4840-b52a-d4ee6d57fef4)
+
+# PÄEV 2
