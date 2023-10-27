@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="Mainpage.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MATRIX Unofficial site</title>
+</head>
+<body>
+</head>
+<body>
+    <div class="background_img">
+        <img src="img/matrix-background-wallpaper_720.png" alt="">
+        <p >You take the red pill, you stay in Wonderland. And I show you how deep the rabbit hole goes.</p>
+       <div class="button">
+            <a id="bluep" class="bluep" href="#">Blue</a>
+            <a id="redp" class="redp" href="#">Red</a>
+        </div>
+    </div>
+
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const bluep = document.getElementById("bluep");
+
+    if (bluep) {
+        bluep.addEventListener("click", function() {
+            window.location.href = "TheEnd.html";
+        });
+    }
+});
+
+    document.addEventListener("DOMContentLoaded", function() {
+        const redp = document.getElementById("redp");
+
+    if (redp) {
+        redp.addEventListener("click", function() {
+            window.location.href = "Homepage.html";
+        });
+    }
+});
+
+        </script>
+</body>
+</html>
