@@ -1,11 +1,9 @@
-# Avatar
-Project management
-👉 Summary Koostada Veebileht vabalt valitud filmi kohta. Välja tuua erinevatel 
+# Matrix
 lehtedel filmi eri aspektid. 
  - Figma
  - Speed test teha lehele ( https://pagespeed.web.dev/analysis/https-flowershower-ee/4ww9esj6me?form_factor=desktop )
  - Min 3 vahelehte
- - Default font ei tohi olla  ( https://fonts.google.com/ )
+ - Default font ei tohi olla 
  - Mitte ühtegi Absolute!
  - Zone üleslaadimine
  - Mobiilne vaade!
@@ -30,3 +28,5 @@ lehtedel filmi eri aspektid.
 ![IMG_0288](https://github.com/germovaa/grupp-9/assets/93116819/e41c62e7-88d7-4840-b52a-d4ee6d57fef4)
 
 # PÄEV 2
+- Tegime valmis figma
+- Alustasime koodimisega
