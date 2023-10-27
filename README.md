@@ -3,12 +3,12 @@ lehtedel filmi eri aspektid.
  - Figma https://www.figma.com/file/DNjT3Jp1vtoMZdtdv5CG0S/Avatar-film?type=design&node-id=3%3A3&mode=design&t=p872sU4um6Mb6S4k-1
  - 
 # Team members 
- - Kristofer Mere TAK-23
- - Robby Šaukštelis TAK-23
- - Taaniel Tiidussalu TAK-23
- - Germo Vaagert TA-23
- - Sander-Aleks Mander TAK-21
- - Timo Loho TAK-21
+ - Kristofer Mere TAK-23: Tegi-Figmas mobile ja desktop disaini ja streaming lehte. Õppis uut-Õppis Figmat kasutama (kasutas esimest korda).
+ - Robby Šaukštelis TAK-23: Tegi-Figams mobile ja dekstop disaini ja about lehte. Õppis uut- Õppis Figmat kasutama (kasutas esimest korda).
+ - Taaniel Tiidussalu TAK-23: Tegi-Figmas mobile ja desktop disaini ja about, gallery, landingpage, rateings, streaming lehed. Õppis uut-Koodi kirjutama ja Figmat kasutama (kasutas esimest korda) ja õppis veel tiimitööd.
+ - Germo Vaagert TA-23: Tegi-Figmas mobile ja desktop disaini ja prottüüp ja mainpage, landingpage, rabithole ja gif lehed. Õppis uut- Figmas interactioneid kasutama suuremas mahus ja õppis uusi functioneid html cssis ja proovis esimest korda JavaScripti ja sai scriptis isegi midagi aru.
+ - Sander-Aleks Mander TAK-21: Tegi: Githubi ja õpetas.
+ - Timo Loho TAK-21: Tegi: Githubi ja õpetas.
 
 # PÄEV 1
 - Valisime välja filmi (AVATAR).
@@ -25,3 +25,4 @@ lehtedel filmi eri aspektid.
 # PÄEV 2
 - Tegime valmis figma
 - Alustasime koodimisega
+
