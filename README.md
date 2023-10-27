@@ -1,12 +1,7 @@
 # Matrix
 lehtedel filmi eri aspektid. 
- - Figma
- - Speed test teha lehele ( https://pagespeed.web.dev/analysis/https-flowershower-ee/4ww9esj6me?form_factor=desktop )
- - Min 3 vahelehte
- - Default font ei tohi olla 
- - Mitte ühtegi Absolute!
- - Zone üleslaadimine
- - Mobiilne vaade!
+ - Figma https://www.figma.com/file/DNjT3Jp1vtoMZdtdv5CG0S/Avatar-film?type=design&node-id=3%3A3&mode=design&t=p872sU4um6Mb6S4k-1
+ - 
 # Team members 
  - Kristofer Mere TAK-23
  - Robby Šaukštelis TAK-23
