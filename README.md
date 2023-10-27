@@ -27,3 +27,8 @@ lehtedel filmi eri aspektid.
 - Tegime valmis figma
 - Alustasime koodimisega
 
+# PÄEV 3
+koodi lõpetamine
+zonei uploadimine
+mergeimine
+speed test
