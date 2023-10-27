@@ -1,6 +1,7 @@
 # Matrix
 lehtedel filmi eri aspektid. 
  - Figma https://www.figma.com/file/DNjT3Jp1vtoMZdtdv5CG0S/Avatar-film?type=design&node-id=3%3A3&mode=design&t=p872sU4um6Mb6S4k-1
+ - https://ta23vaagert.itmajakas.ee/Mainpage.html
  - 
 # Team members 
  - Kristofer Mere TAK-23: Tegi-Figmas mobile ja desktop disaini ja streaming lehte. Õppis uut-Õppis Figmat kasutama (kasutas esimest korda).
